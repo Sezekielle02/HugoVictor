@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pagina de Ezreal</title>
-    <link>http://example.org/post/</link>
+    <link>https://sezekielle02.github.io/HugoVictor/post/</link>
     <description>Recent content in Posts on Pagina de Ezreal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Feb 2022 09:36:27 +0100</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 09:36:27 +0100</lastBuildDate><atom:link href="https://sezekielle02.github.io/HugoVictor/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ejemplo</title>
-      <link>http://example.org/post/pagina/</link>
+      <link>https://sezekielle02.github.io/HugoVictor/post/pagina/</link>
       <pubDate>Thu, 03 Feb 2022 09:36:27 +0100</pubDate>
       
-      <guid>http://example.org/post/pagina/</guid>
+      <guid>https://sezekielle02.github.io/HugoVictor/post/pagina/</guid>
       <description>Esto es una página de ejemplo.</description>
     </item>
     

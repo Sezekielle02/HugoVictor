@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://sezekielle02.github.io/HugoVictor/</loc>
     <lastmod>2022-02-03T09:43:53+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/post1/</loc>
+    <loc>https://sezekielle02.github.io/HugoVictor/blog/post1/</loc>
     <lastmod>2022-02-03T09:43:53+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://sezekielle02.github.io/HugoVictor/blog/</loc>
     <lastmod>2022-02-03T09:43:02+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/pagina/</loc>
+    <loc>https://sezekielle02.github.io/HugoVictor/post/pagina/</loc>
     <lastmod>2022-02-03T09:36:27+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://sezekielle02.github.io/HugoVictor/post/</loc>
     <lastmod>2022-02-03T09:36:27+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://sezekielle02.github.io/HugoVictor/categories/</loc>
   </url><url>
-    <loc>http://example.org/home/</loc>
+    <loc>https://sezekielle02.github.io/HugoVictor/home/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://sezekielle02.github.io/HugoVictor/tags/</loc>
   </url>
 </urlset>
